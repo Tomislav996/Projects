@@ -1,4 +1,4 @@
-import React from 'react'
+
 import {FaWindows, FaPlaystation, FaXbox, FaApple, FaLinux, FaAndroid} from "react-icons/fa";
 import { IconType } from 'react-icons';
 import {MdPhoneIphone} from "react-icons/md";
